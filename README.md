@@ -1,2 +1,2 @@
 # Aws-terraform
-Des scripts pour créér des ressources dans AWS en utilisant Terraform
+Voici des scripts Terraform pour créér des ressources dans AWS. Enjoy !
